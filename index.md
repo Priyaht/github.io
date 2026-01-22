@@ -15,6 +15,6 @@ MSc data science  student with interests in data analysis, accessibility, and ap
 
 ## Coursework projects
 - **IJC437: Passenger Assist accessibility analysis**
-  - Project page: (link added later)
+  - Project page: [View project](ijc437.html)
   - Code repository: (link added later)
 
